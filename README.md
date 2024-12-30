@@ -8,4 +8,4 @@ This is a basic project, part of the Codecademy full-stack developer learning pa
 
 ## Learning
 
-To set a background image for a h1 tag such that the image is automatically resized to suit the h1 tag, it's better to use the 'background-image' property in css rather than using an <img> tag in html.
+To set a background image for a h1 tag such that the image is automatically resized to suit the h1 tag, it's better to use the 'background-image' property in css rather than using an img tag in html.
